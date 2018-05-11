@@ -108,7 +108,7 @@ class GetFacebookPage extends Widget
 
 				$output.= '<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = \'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=1468906493397233&autoLogAppEvents=1\';  fjs.parentNode.insertBefore(js, fjs);}(document, \'script\', \'facebook-jssdk\'));</script>';
 
-				$output.= '<div class="fb-page" data-href="'.$facebook_page_url.'" data-tabs="timeline, events, messages" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="'.$facebook_page_url.'" class="fb-xfbml-parse-ignore"><a href="'.$facebook_page_url.'">MedQuarter</a></blockquote></div>';
+				$output.= '<div class="fb-page" data-href="'.$facebook_page_url.'" data-tabs="timeline, events, messages" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="'.$facebook_page_url.'" class="fb-xfbml-parse-ignore"><a href="'.$facebook_page_url.'">Loading Facebook Widget&hellip;</a></blockquote></div>';
 
 				$output.= '<p><a href="'.$facebook_page_url.'insights/" target="_blank" class="more">View More Page Insights &amp; Stats</a></p>';
 
