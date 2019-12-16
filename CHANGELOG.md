@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Better scoped the widget styles.
+
 ## 1.0.3
 
 - Matomo plugin marketplace update.

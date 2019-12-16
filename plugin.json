@@ -1,7 +1,7 @@
 {
     "name": "FacebookPageWidgetByAmperage",
     "description": "Show Facebook Page plugin as a configurable widget.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "theme": false,
     "keywords": [
         "amperage",
