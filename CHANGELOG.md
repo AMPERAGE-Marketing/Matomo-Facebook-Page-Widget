@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7
+
+- Version bump Matomo 4 plugin as that is technically newer.
+
 ## 1.0.6
 
 - Split Matomo 3 and Matomo 4 versions.
